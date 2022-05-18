@@ -1,0 +1,68 @@
+.div1 {
+         height: 260px;
+         width:  100%;
+    align: center;
+}
+
+.pai {
+    height: 250px;
+    width:  100%;
+font-size: 0;
+
+}
+
+.caderno { font-size:large; /*define tamanho da fonte*/
+    font-style: normal; /*define escolha da fonte em normal, italic, oblique*/
+    font-weight: bold; /*define o quanto a fonte é pesada (negrito)*/
+    height: 220px;
+    width:220px;
+    float: left;
+}
+
+.caneta { font-size:large; 
+    font-style: normal; 
+    font-weight: bold; 
+    height:220px;
+    width: 220px;
+    float: left;
+}
+
+.postit { font-size:large; 
+    font-style: normal; 
+    font-weight: bold; 
+    height:220px;
+    width: 220px;
+    float: left;
+}
+
+.estojos {
+    font-size:large; 
+    font-style: normal; 
+    font-weight: bold; 
+    height: 220px;
+    width: 220px;
+    float: left;
+}
+
+.mochilas {
+    font-size:large; 
+    font-style: normal; 
+    font-weight: bold; 
+    height:220px;
+    width: 220px;
+    float:left;
+}
+
+.trc { font-size:large; 
+    font-style: normal; 
+    font-weight: bold; 
+    height:220px;
+    width: 220px;
+    float:left;
+}
+
+
+.socials {
+background-color:white;
+ float: justify;
+}
